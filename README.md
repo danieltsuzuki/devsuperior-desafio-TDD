@@ -17,16 +17,15 @@ Certifique-se de ter os seguintes requisitos instalados antes de prosseguir:
     ```bash
       git clone https://github.com/danieltsuzuki/devsuperior-desafio-TDD.git
     ```
-2. Descompacte o projeto
-3. Navegue até o diretório do projeto:
+2. Navegue até o diretório do projeto:
     ```bash
       cd seu-projeto
     ```
-5. Compile o projeto
+3. Compile o projeto
     ```bash
       mvn clean install
      ```
-7. Execute-o:
+4. Execute-o:
     ```bash
       mvn spring-boot:run
     ```
